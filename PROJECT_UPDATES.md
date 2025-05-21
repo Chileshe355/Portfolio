@@ -1,4 +1,4 @@
-I've updated your portfolio website with your actual project experience at the Johannesburg Society of Advocates through Third Intellect. The projects now showcase your extensive work with Django, Bootstrap, Docker, PostgreSQL, Redis, and Celery.
+
 
 ### Changes made:
 
